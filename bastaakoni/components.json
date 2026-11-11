@@ -1,0 +1,19 @@
+{
+  "style": "new-york-v4",
+  "typescript": true,
+  "tailwind": {
+    "config": "",
+    "css": "src/assets/index.css",
+    "baseColor": "neutral",
+    "cssVariables": true,
+    "prefix": ""
+  },
+  "iconLibrary": "lucide",
+  "aliases": {
+    "components": "@/components",
+    "composables": "@/composables",
+    "utils": "@/lib/utils",
+    "ui": "@/components/ui",
+    "lib": "@/lib"
+  }
+}
